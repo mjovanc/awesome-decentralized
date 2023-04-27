@@ -16,12 +16,11 @@ A curated list of awesome projects, books, articles, tutorials, courses and othe
   - [Applications](#applications)
   - [Cryptocurrencies/Blockchains](#cryptocurrenciesblockchains)
   - [Other](#other)
-- [Other Resources](#other-resources)
-  - [YouTube Channels, Videos and Playlists](#youtube-channels-videos-and-playlists)
-    - [Channels](#channels)
-    - [Playlists](#playlists)
-    - [Videos](#videos)
-  - [Blogs](#blogs)
+- [YouTube Channels, Videos and Playlists](#youtube-channels-videos-and-playlists)
+  - [Channels](#channels)
+  - [Playlists](#playlists)
+  - [Videos](#videos)
+- [Blogs](#blogs)
 - [Contributing](#contributing)
 
 ## Books
@@ -50,13 +49,12 @@ A curated list of awesome projects, books, articles, tutorials, courses and othe
 
 ### Other
 
-## Other Resources
+## YouTube Channels, Videos and Playlists
+### Channels
+### Playlists
+### Videos
 
-### YouTube Channels, Videos and Playlists
-#### Channels
-#### Playlists
-#### Videos
-### Blogs
+## Blogs
 
 - [Jenkov](https://www.jenkov.com) Good blog posts regarding decentralized/distributed systems including P2P. 
 
