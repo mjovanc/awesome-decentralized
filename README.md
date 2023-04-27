@@ -35,7 +35,7 @@ A curated list of awesome projects, books, articles, tutorials, courses and othe
 ## Projects
 
 - [Kryptokrona](https://github.com/kryptokrona/kryptokrona) A private, fast and secure cryptocurrency from the nordic region.
-- [Kryptokrona Kotlin SDK](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems. Uses Ktor client library to fetch data from RPC.
+- [Kryptokrona Kotlin SDK](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.
 
 ### YouTube Channels, Videos and Playlists
 #### Channels
