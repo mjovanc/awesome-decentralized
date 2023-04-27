@@ -25,6 +25,7 @@ A curated list of awesome projects, books, articles, tutorials, courses and othe
 
 ## Books
 
+- [Mastering Monero: The future of private transactions](https://www.amazon.se/Mastering-Monero-future-private-transactions/dp/1731079966/ref=asc_df_1731079966/?tag=shpngadsglede-21&linkCode=df0&hvadid=476537624603&hvpos=&hvnetw=g&hvrand=5859997937292294783&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=21017&hvtargid=pla-596869072293&psc=1) - The newest resource to help you learn everything that you want to know about the cryptocurrency Monero.
 - [Ethereum development with Go](https://goethereumbook.org/en)
 - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
 - [Token Economy Book](https://github.com/sherminvo/TokenEconomyBook/wiki)
