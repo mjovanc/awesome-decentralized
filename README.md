@@ -13,7 +13,13 @@ A curated list of awesome projects, books, articles, tutorials, courses and othe
 - [Educational Projects](#educational-projects)
 - [Projects](#projects)
   - [Libraries](#libraries)
-  - [Applications](#applications)
+  - [Communication](#communication)
+  - [Media](#media)
+  - [Web](#web)
+  - [Microblogging and Social Network](#microblogging-and-social-network)
+  - [Data Storage and Sharing](#data-storage-and-sharing)
+  - [Databases](#databases)
+  - [Collaboration](#collaboration)
   - [Cryptocurrencies/Blockchains](#cryptocurrenciesblockchains)
   - [Other](#other)
 - [YouTube Channels, Videos and Playlists](#youtube-channels-videos-and-playlists)
@@ -45,16 +51,30 @@ A curated list of awesome projects, books, articles, tutorials, courses and othe
 
 ## Projects
 
+Things built with decentralized protocols and technologies.
+
 ### Libraries
 
 - [Kryptokrona Kotlin SDK](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) - Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.
 - [Locutus](https://github.com/freenet/locutus) - Locutus is a software platform that makes it easy to create decentralized alternatives to today's centralized tech companies. These decentralized apps will be easy to use, scalable, and secured through cryptography.
 - [Holepunch](https://github.com/holepunchto) - Holepunch equips developers with a powerful suite of independent components to effortlessly construct peer-to-peer applications.
 
-### Applications
+### Communication
 
 - [Hugin Messenger - Desktop](https://github.com/kryptokrona/hugin-desktop) - Private messaging application on Kryptokrona Blockchain for desktop.
 - [Hugin Messenger - Mobile](https://github.com/kryptokrona/hugin-mobile) - Private messaging application on Kryptokrona Blockchain for mobile.
+
+### Media
+
+### Web
+
+### Microblogging and Social Network
+
+### Data Storage and Sharing
+
+### Databases
+
+### Collaboration
 
 ### Cryptocurrencies/Blockchains
 
