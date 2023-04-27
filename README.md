@@ -43,6 +43,8 @@ A curated list of awesome projects, books, articles, tutorials, courses and othe
 #### Videos
 ### Blogs
 
+- [Jenkov](https://www.jenkov.com) Good blog posts regarding decentralized/distributed systems including P2P. 
+
 ## Contributing
 
 Contributions are very welcome!
