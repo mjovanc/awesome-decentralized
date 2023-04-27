@@ -9,9 +9,7 @@ A curated list of awesome projects, books, articles, tutorials, courses and othe
 - [Books](#books)
 - [Courses](#courses)
 - [Articles](#articles)
-- [Podcasts/Episodes](#podcastsepisodes)
-  - [Podcasts](#podcasts)
-  - [Episodes](#episodes)
+- [Podcasts](#podcasts)
 - [Educational Projects](#educational-projects)
 - [Projects](#projects)
   - [Libraries](#libraries)
@@ -27,14 +25,14 @@ A curated list of awesome projects, books, articles, tutorials, courses and othe
 - [Contributing](#contributing)
 
 ## Books
+
 ## Courses
 
 ## Articles
-## Podcasts/Episodes
-### Podcasts
-### Episodes
+
+## Podcasts
+
 ## Educational Projects
-## Other Resources
 
 ## Projects
 
@@ -52,7 +50,7 @@ A curated list of awesome projects, books, articles, tutorials, courses and othe
 
 ### Other
 
-
+## Other Resources
 
 ### YouTube Channels, Videos and Playlists
 #### Channels
