@@ -43,6 +43,9 @@ A curated list of awesome projects, books, articles, tutorials, courses and othe
 
 ### Applications
 
+- [Hugin Messenger - Desktop](https://github.com/kryptokrona/hugin-desktop) - Private messaging application on Kryptokrona Blockchain for desktop.
+- [Hugin Messenger - Mobile](https://github.com/kryptokrona/hugin-mobile) - Private messaging application on Kryptokrona Blockchain for mobile.
+
 ### Cryptocurrencies/Blockchains
 
 - [Kryptokrona](https://github.com/kryptokrona/kryptokrona) A private, fast and secure cryptocurrency from the nordic region.
