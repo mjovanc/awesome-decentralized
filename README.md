@@ -1,5 +1,7 @@
 # Awesome Decentralized
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 A curated list of awesome projects, books, articles, tutorials, courses and other useful resources regarding decentralized technologies. ⚡
 
 ## Table of Contents
