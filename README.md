@@ -14,6 +14,10 @@ A curated list of awesome projects, books, articles, tutorials, courses and othe
   - [Episodes](#episodes)
 - [Educational Projects](#educational-projects)
 - [Projects](#projects)
+  - [Libraries](#libraries)
+  - [Applications](#applications)
+  - [Cryptocurrencies/Blockchains](#cryptocurrenciesblockchains)
+  - [Other](#other)
 - [Other Resources](#other-resources)
   - [YouTube Channels, Videos and Playlists](#youtube-channels-videos-and-playlists)
     - [Channels](#channels)
@@ -34,10 +38,21 @@ A curated list of awesome projects, books, articles, tutorials, courses and othe
 
 ## Projects
 
-- [Locutus](https://github.com/freenet/locutus) Locutus is a software platform that makes it easy to create decentralized alternatives to today's centralized tech companies. These decentralized apps will be easy to use, scalable, and secured through cryptography.
-- [Kryptokrona](https://github.com/kryptokrona/kryptokrona) A private, fast and secure cryptocurrency from the nordic region.
+### Libraries
+
 - [Kryptokrona Kotlin SDK](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.
+- [Locutus](https://github.com/freenet/locutus) Locutus is a software platform that makes it easy to create decentralized alternatives to today's centralized tech companies. These decentralized apps will be easy to use, scalable, and secured through cryptography.
 - [Holepunch](https://github.com/holepunchto) Holepunch equips developers with a powerful suite of independent components to effortlessly construct peer-to-peer applications.
+
+### Applications
+
+### Cryptocurrencies/Blockchains
+
+- [Kryptokrona](https://github.com/kryptokrona/kryptokrona) A private, fast and secure cryptocurrency from the nordic region.
+
+### Other
+
+
 
 ### YouTube Channels, Videos and Playlists
 #### Channels
