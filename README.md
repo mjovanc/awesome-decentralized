@@ -41,6 +41,8 @@ A curated list of awesome projects, books, articles, tutorials, courses and othe
 
 ## Educational Projects
 
+- [Qryptic](https://github.com/mjovanc/qryptic) - Simple blockchain built with C++ and CMake.
+
 ## Projects
 
 ### Libraries
