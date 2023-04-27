@@ -37,6 +37,7 @@ A curated list of awesome projects, books, articles, tutorials, courses and othe
 - [Locutus](https://github.com/freenet/locutus) Locutus is a software platform that makes it easy to create decentralized alternatives to today's centralized tech companies. These decentralized apps will be easy to use, scalable, and secured through cryptography.
 - [Kryptokrona](https://github.com/kryptokrona/kryptokrona) A private, fast and secure cryptocurrency from the nordic region.
 - [Kryptokrona Kotlin SDK](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.
+- [Holepunch](https://github.com/holepunchto) Holepunch equips developers with a powerful suite of independent components to effortlessly construct peer-to-peer applications.
 
 ### YouTube Channels, Videos and Playlists
 #### Channels
