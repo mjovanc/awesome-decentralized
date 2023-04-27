@@ -37,6 +37,8 @@ A curated list of awesome projects, books, articles, tutorials, courses and othe
 
 ## Podcasts
 
+- [Monero Talk](https://www.monerotalk.live) - Monero Talk broadcasts weekly conversations with topical guests to understand what the Monero cryptocurrency is today and what it hopes to become.
+
 ## Educational Projects
 
 ## Projects
