@@ -82,6 +82,9 @@ A curated list of awesome projects, books, articles, tutorials, courses and othe
 - [Jarrod Watts](https://www.youtube.com/@JarrodWatts/featured) - Learn how to build full-stack dApps with thirdweb and other web3 concepts.
 
 ### Playlists
+
+- [Breaking Monero](https://www.youtube.com/playlist?list=PLsSYUeVwrHBnAUre2G_LYDsdo-tD0ov-y) - Breaking Monero is a series of episodes where we explain the limitations of Monero’s security and privacy in a comprehensive and understandable way.
+
 ### Videos
 
 ## Blogs
