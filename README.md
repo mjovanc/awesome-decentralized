@@ -59,6 +59,7 @@ A curated list of awesome projects, books, articles, tutorials, courses and othe
 ### Cryptocurrencies/Blockchains
 
 - [Kryptokrona](https://github.com/kryptokrona/kryptokrona) - A private, fast and secure cryptocurrency from the nordic region.
+- [Project Hydro](https://github.com/HydroBlockchain) - A Web3, multi-chain decentralized ecosystem.
 
 ### Other
 
