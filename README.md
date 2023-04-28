@@ -67,6 +67,7 @@ Things built with decentralized protocols and technologies.
 #### C/C++
 
 #### Rust
+- [Aleo SDK](https://github.com/AleoHQ/aleo) - A Software Development Kit (SDK) for Zero-Knowledge Transactions.
 - [Locutus](https://github.com/freenet/locutus) - Locutus is a software platform that makes it easy to create decentralized alternatives to today's centralized tech companies. These decentralized apps will be easy to use, scalable, and secured through cryptography.
 
 #### JavaScript/TypeScript
