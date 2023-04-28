@@ -171,6 +171,8 @@ Things built with decentralized protocols and technologies.
 
 ### Videos
 
+- [Peer-to-peer (P2P) Networks - Basic Algorithms](https://www.youtube.com/watch?v=kXyVqk3EbwE)
+
 ## Blogs
 
 - [Jenkov](https://www.jenkov.com) - Blog regarding decentralized/distributed systems including P2P among other things. 
