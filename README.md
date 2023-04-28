@@ -15,7 +15,7 @@ A curated list of awesome projects, books, articles, tutorials, courses and othe
   - [Libraries](#libraries)
     - [Rust](#rust)
     - [JavaScript/TypeScript](#javascripttypescript)
-    - [Java/Kotlin/Scala/Groovy](#javakotlinscalagroovy)'
+    - [Java/Kotlin/Scala/Groovy](#javakotlinscalagroovy)
     - [Other](#other)
   - [Communication](#communication)
   - [Media](#media)
