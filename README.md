@@ -67,8 +67,8 @@ Things built with decentralized protocols and technologies.
 
 #### Java/Kotlin/Scala/Groovy
 - [Kryptokrona Kotlin SDK](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) - Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.
-- [bitcoinj](https://github.com/bitcoinj) - A bitcoin library for the JVM.
-- [web3j](https://github.com/web3j) - JVM language projects for working with Blockchains.
+- [bitcoinj](https://github.com/bitcoinj/bitcoinj) - Java implementation of the Bitcoin protocol, which allows it to maintain a wallet and send/receive transactions without needing a local copy of Bitcoin Core.
+- [web3j](https://github.com/web3j/web3j) - Lightweight Java and Android library for integration with Ethereum clients.
 - [jvm-libp2p](https://github.com/libp2p/jvm-libp2p) - A libp2p implementation for the JVM, written in Kotlin
 
 #### Other
