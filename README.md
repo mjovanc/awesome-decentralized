@@ -17,6 +17,10 @@ A curated list of awesome projects, books, articles, tutorials, courses and othe
     - [Rust](#rust)
     - [JavaScript/TypeScript](#javascripttypescript)
     - [Java/Kotlin/Scala/Groovy](#javakotlinscalagroovy)
+    - [Go](#go)
+    - [Python](#python)
+    - [PHP](#php)
+    - [Solidity](#solidity)
     - [Other](#other)
   - [Communication](#communication)
   - [Media](#media)
@@ -73,6 +77,14 @@ Things built with decentralized protocols and technologies.
 - [bitcoinj](https://github.com/bitcoinj/bitcoinj) - Java implementation of the Bitcoin protocol, which allows it to maintain a wallet and send/receive transactions without needing a local copy of Bitcoin Core.
 - [web3j](https://github.com/web3j/web3j) - Lightweight Java and Android library for integration with Ethereum clients.
 - [jvm-libp2p](https://github.com/libp2p/jvm-libp2p) - A libp2p implementation for the JVM, written in Kotlin
+
+#### Go
+
+#### Python
+
+#### PHP
+
+#### Solidity
 
 #### Other
 
