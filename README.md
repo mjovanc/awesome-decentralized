@@ -112,6 +112,7 @@ Things built with decentralized protocols and technologies.
 ## Blogs
 
 - [Jenkov](https://www.jenkov.com) - Blog regarding decentralized/distributed systems including P2P among other things. 
+- [P2P Foundation](https://blog.p2pfoundation.net) Non-profit organization and global network dedicated to advocacy and research of commons-oriented peer to peer (P2P) dynamics in society.
 
 ## Contributing
 
