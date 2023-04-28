@@ -82,6 +82,8 @@ Things built with decentralized protocols and technologies.
 
 #### Python
 
+- [LBRY SDK](https://github.com/lbryio/lbry-sdk) - The LBRY SDK for building decentralized, censorship resistant, monetized, digital content apps.
+
 #### PHP
 
 #### Solidity
@@ -100,6 +102,8 @@ Things built with decentralized protocols and technologies.
 
 ### Microblogging and Social Network
 
+- [Lenster](https://github.com/lensterxyz/lenster) - Lenster is a decentralized and permissionless social media app built with Lens Protocol.
+
 ### Data Storage and Sharing
 
 - [IPFS](https://github.com/ipfs) A peer-to-peer hypermedia protocol.
@@ -107,6 +111,7 @@ Things built with decentralized protocols and technologies.
 ### Databases
 
 - [IPDB](https://github.com/ipdb) Interplanetary Database.
+- [CovenantSQL (CQL)](https://github.com/CovenantSQL/CovenantSQL) - A decentralized, trusted, high performance, SQL database with blockchain features.
 
 ### Collaboration
 
@@ -119,6 +124,7 @@ Things built with decentralized protocols and technologies.
 ### Other
 
 - [Haveno](https://github.com/haveno-dex) - Decentralized and P2P exchange platform based on Monero.
+- [Bisq](https://github.com/bisq-network/bisq) - A decentralized bitcoin exchange network.
 
 ## YouTube Channels, Videos and Playlists
 
