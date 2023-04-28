@@ -72,6 +72,8 @@ Things built with decentralized protocols and technologies.
 
 ### Data Storage and Sharing
 
+- [IPFS](https://github.com/ipfs) A peer-to-peer hypermedia protocol.
+
 ### Databases
 
 ### Collaboration
