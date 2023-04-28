@@ -63,6 +63,7 @@ Things built with decentralized protocols and technologies.
 
 - [Hugin Messenger - Desktop](https://github.com/kryptokrona/hugin-desktop) - Private messaging application on Kryptokrona Blockchain for desktop.
 - [Hugin Messenger - Mobile](https://github.com/kryptokrona/hugin-mobile) - Private messaging application on Kryptokrona Blockchain for mobile.
+- [Mimir](https://github.com/Revertron/Mimir) - True P2P messenger on top of Yggdrasil Network.
 
 ### Media
 
