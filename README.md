@@ -13,6 +13,10 @@ A curated list of awesome projects, books, articles, tutorials, courses and othe
 - [Educational Projects](#educational-projects)
 - [Projects](#projects)
   - [Libraries](#libraries)
+    - [Rust](#rust)
+    - [JavaScript/TypeScript](#javascripttypescript)
+    - [Java/Kotlin/Scala/Groovy](#javakotlinscalagroovy)'
+    - [Other](#other)
   - [Communication](#communication)
   - [Media](#media)
   - [Web](#web)
@@ -55,10 +59,19 @@ Things built with decentralized protocols and technologies.
 
 ### Libraries
 
-- [Kryptokrona Kotlin SDK](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) - Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.
+#### Rust
 - [Locutus](https://github.com/freenet/locutus) - Locutus is a software platform that makes it easy to create decentralized alternatives to today's centralized tech companies. These decentralized apps will be easy to use, scalable, and secured through cryptography.
+
+#### JavaScript/TypeScript
 - [Holepunch](https://github.com/holepunchto) - Holepunch equips developers with a powerful suite of independent components to effortlessly construct peer-to-peer applications.
+
+#### Java/Kotlin/Scala/Groovy
+- [Kryptokrona Kotlin SDK](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) - Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.
 - [bitcoinj](https://github.com/bitcoinj) - A bitcoin library for the JVM.
+- [web3j](https://github.com/web3j) - JVM language projects for working with Blockchains.
+- [jvm-libp2p](https://github.com/libp2p/jvm-libp2p) - A libp2p implementation for the JVM, written in Kotlin
+
+#### Other
 
 ### Communication
 
