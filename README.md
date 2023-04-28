@@ -58,6 +58,7 @@ Things built with decentralized protocols and technologies.
 - [Kryptokrona Kotlin SDK](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) - Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.
 - [Locutus](https://github.com/freenet/locutus) - Locutus is a software platform that makes it easy to create decentralized alternatives to today's centralized tech companies. These decentralized apps will be easy to use, scalable, and secured through cryptography.
 - [Holepunch](https://github.com/holepunchto) - Holepunch equips developers with a powerful suite of independent components to effortlessly construct peer-to-peer applications.
+- [bitcoinj](https://github.com/bitcoinj) - A bitcoin library for the JVM.
 
 ### Communication
 
