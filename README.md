@@ -75,6 +75,7 @@ Things built with decentralized protocols and technologies.
 #### JavaScript/TypeScript
 - [Holepunch](https://github.com/holepunchto) - Holepunch equips developers with a powerful suite of independent components to effortlessly construct peer-to-peer applications.
 - [js-libp2p](https://github.com/libp2p/js-libp2p) - The JavaScript Implementation of libp2p networking stack.
+- [PeerJS](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC.
 
 #### Java/Kotlin/Scala/Groovy
 - [Kryptokrona Kotlin SDK](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) - Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.
@@ -107,6 +108,9 @@ Things built with decentralized protocols and technologies.
 
 ### Web
 
+- [WebTorrent](https://github.com/webtorrent/webtorrent) - WebTorrent is a streaming torrent client for node.js and the browser.
+- [PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser.
+
 ### Microblogging and Social Network
 
 - [Lenster](https://github.com/lensterxyz/lenster) - Lenster is a decentralized and permissionless social media app built with Lens Protocol.
@@ -114,11 +118,13 @@ Things built with decentralized protocols and technologies.
 ### Data Storage and Sharing
 
 - [IPFS](https://github.com/ipfs) A peer-to-peer hypermedia protocol.
+- [Syncthing](https://github.com/syncthing/syncthing) - Syncthing is a continuous file synchronization program. It synchronizes files between two or more computers.
 
 ### Databases
 
-- [IPDB](https://github.com/ipdb) Interplanetary Database.
+- [IPDB](https://github.com/ipdb) - Interplanetary Database.
 - [CovenantSQL (CQL)](https://github.com/CovenantSQL/CovenantSQL) - A decentralized, trusted, high performance, SQL database with blockchain features.
+- [OrbitDB](https://github.com/orbitdb/orbit-db) - A serverless, distributed, peer-to-peer database.
 
 ### Collaboration
 
