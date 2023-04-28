@@ -85,6 +85,7 @@ Things built with decentralized protocols and technologies.
 - [Monero](https://github.com/monero-project) - A private, secure, untraceable, decentralised digital currency. 
 - [Kryptokrona](https://github.com/kryptokrona/kryptokrona) - A private, fast and secure cryptocurrency from the nordic region.
 - [Hydro](https://github.com/HydroBlockchain) - A web3, multi-chain decentralized ecosystem.
+- [Haveno](https://github.com/haveno-dex) - Decentralized and P2P exchange platform based on Monero.
 
 ### Other
 
