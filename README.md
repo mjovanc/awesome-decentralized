@@ -70,9 +70,11 @@ Things built with decentralized protocols and technologies.
 #### Rust
 - [Aleo SDK](https://github.com/AleoHQ/aleo) - A Software Development Kit (SDK) for Zero-Knowledge Transactions.
 - [Locutus](https://github.com/freenet/locutus) - Locutus is a software platform that makes it easy to create decentralized alternatives to today's centralized tech companies. These decentralized apps will be easy to use, scalable, and secured through cryptography.
+- [rust-libp2p](https://github.com/libp2p/rust-libp2p) - The Rust Implementation of the libp2p networking stack.
 
 #### JavaScript/TypeScript
 - [Holepunch](https://github.com/holepunchto) - Holepunch equips developers with a powerful suite of independent components to effortlessly construct peer-to-peer applications.
+- [js-libp2p](https://github.com/libp2p/js-libp2p) - The JavaScript Implementation of libp2p networking stack.
 
 #### Java/Kotlin/Scala/Groovy
 - [Kryptokrona Kotlin SDK](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) - Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.
@@ -82,9 +84,12 @@ Things built with decentralized protocols and technologies.
 
 #### Go
 
+- [go-libp2p](https://github.com/libp2p/go-libp2p) - libp2p implementation in Go.
+
 #### Python
 
 - [LBRY SDK](https://github.com/lbryio/lbry-sdk) - The LBRY SDK for building decentralized, censorship resistant, monetized, digital content apps.
+- [py-libp2p](https://github.com/libp2p/py-libp2p) - The Python implementation of the libp2p networking stack.
 
 #### PHP
 
