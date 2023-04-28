@@ -13,6 +13,7 @@ A curated list of awesome projects, books, articles, tutorials, courses and othe
 - [Educational Projects](#educational-projects)
 - [Projects](#projects)
   - [Libraries](#libraries)
+    - [C/C++](#cc)
     - [Rust](#rust)
     - [JavaScript/TypeScript](#javascripttypescript)
     - [Java/Kotlin/Scala/Groovy](#javakotlinscalagroovy)
@@ -58,6 +59,8 @@ A curated list of awesome projects, books, articles, tutorials, courses and othe
 Things built with decentralized protocols and technologies.
 
 ### Libraries
+
+#### C/C++
 
 #### Rust
 - [Locutus](https://github.com/freenet/locutus) - Locutus is a software platform that makes it easy to create decentralized alternatives to today's centralized tech companies. These decentralized apps will be easy to use, scalable, and secured through cryptography.
