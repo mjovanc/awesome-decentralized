@@ -122,6 +122,7 @@ Things built with decentralized protocols and technologies.
 - [IPFS](https://github.com/ipfs) A peer-to-peer hypermedia protocol.
 - [Syncthing](https://github.com/syncthing/syncthing) - Syncthing is a continuous file synchronization program. It synchronizes files between two or more computers.
 - [Kraken](https://github.com/uber/kraken) - Kraken is a P2P-powered Docker registry that focuses on scalability and availability.
+- [croc](https://github.com/schollz/croc) - croc is a tool that allows any two computers to simply and securely transfer files and folders.
 
 ### Databases
 
@@ -132,6 +133,7 @@ Things built with decentralized protocols and technologies.
 ### Networking
 
 - [noise](https://github.com/perlin-network/noise) - noise is an opinionated, easy-to-use P2P network stack for decentralized applications, and cryptographic protocols written in Go.
+- [n2n](https://github.com/ntop/n2n) - Peer-to-peer VPN.
 
 ### Collaboration
 
