@@ -76,6 +76,8 @@ Things built with decentralized protocols and technologies.
 
 ### Databases
 
+- [IPDB](https://github.com/ipdb) Interplanetary Database
+
 ### Collaboration
 
 ### Cryptocurrencies/Blockchains
