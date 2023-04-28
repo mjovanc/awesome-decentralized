@@ -28,6 +28,7 @@ A curated list of awesome projects, books, articles, tutorials, courses and othe
   - [Microblogging and Social Network](#microblogging-and-social-network)
   - [Data Storage and Sharing](#data-storage-and-sharing)
   - [Databases](#databases)
+  - [Networking](#networking)
   - [Collaboration](#collaboration)
   - [Cryptocurrencies/Blockchains](#cryptocurrenciesblockchains)
   - [Other](#other)
@@ -103,6 +104,7 @@ Things built with decentralized protocols and technologies.
 - [Hugin Messenger - Desktop](https://github.com/kryptokrona/hugin-desktop) - Private messaging application on Kryptokrona Blockchain for desktop.
 - [Hugin Messenger - Mobile](https://github.com/kryptokrona/hugin-mobile) - Private messaging application on Kryptokrona Blockchain for mobile.
 - [Mimir](https://github.com/Revertron/Mimir) - True P2P messenger on top of Yggdrasil Network.
+- [Berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network.
 
 ### Media
 
@@ -119,12 +121,17 @@ Things built with decentralized protocols and technologies.
 
 - [IPFS](https://github.com/ipfs) A peer-to-peer hypermedia protocol.
 - [Syncthing](https://github.com/syncthing/syncthing) - Syncthing is a continuous file synchronization program. It synchronizes files between two or more computers.
+- [Kraken](https://github.com/uber/kraken) - Kraken is a P2P-powered Docker registry that focuses on scalability and availability.
 
 ### Databases
 
 - [IPDB](https://github.com/ipdb) - Interplanetary Database.
 - [CovenantSQL (CQL)](https://github.com/CovenantSQL/CovenantSQL) - A decentralized, trusted, high performance, SQL database with blockchain features.
 - [OrbitDB](https://github.com/orbitdb/orbit-db) - A serverless, distributed, peer-to-peer database.
+
+### Networking
+
+- [noise](https://github.com/perlin-network/noise) - noise is an opinionated, easy-to-use P2P network stack for decentralized applications, and cryptographic protocols written in Go.
 
 ### Collaboration
 
