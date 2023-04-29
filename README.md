@@ -129,6 +129,7 @@ Things built with decentralized protocols and technologies.
 - [IPDB](https://github.com/ipdb) - Interplanetary Database.
 - [CovenantSQL (CQL)](https://github.com/CovenantSQL/CovenantSQL) - A decentralized, trusted, high performance, SQL database with blockchain features.
 - [OrbitDB](https://github.com/orbitdb/orbit-db) - A serverless, distributed, peer-to-peer database.
+- [AtomicServer][https://atomicserver.eu) - Small, powerful NoSQL graph database with Notion like UI.
 
 ### Networking
 
