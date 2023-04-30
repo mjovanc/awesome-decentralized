@@ -31,6 +31,7 @@ A curated list of awesome projects, books, articles, tutorials, courses and othe
   - [Networking](#networking)
   - [Collaboration](#collaboration)
   - [Cryptocurrencies/Blockchains](#cryptocurrenciesblockchains)
+  - [Payments](#payments)
   - [Other](#other)
 - [YouTube Channels, Videos and Playlists](#youtube-channels-videos-and-playlists)
   - [Channels](#channels)
