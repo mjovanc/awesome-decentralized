@@ -149,7 +149,7 @@ Things built with decentralized protocols and technologies.
 - [Hydro](https://github.com/HydroBlockchain) - A web3, multi-chain decentralized ecosystem.
 
 ### Payments
-[GNU Taler](https://taler.net/en) - GNU Taler is a new privacy-preserving electronic payment system. Payments are cryptographically secured and are confirmed within milliseconds with extremely low transaction costs.
+- [GNU Taler](https://taler.net/en) - GNU Taler is a new privacy-preserving electronic payment system. Payments are cryptographically secured and are confirmed within milliseconds with extremely low transaction costs.
 
 ### Other
 
