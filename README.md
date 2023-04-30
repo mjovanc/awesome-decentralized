@@ -67,7 +67,7 @@ Things built with decentralized protocols and technologies.
 ### Libraries
 
 #### C/C++
-- [GNUnet](https://gnunet.org] - GNUnet is an alternative network stack for building secure, decentralized and privacy-preserving distributed applications.
+- [GNUnet](https://gnunet.org) - GNUnet is an alternative network stack for building secure, decentralized and privacy-preserving distributed applications.
 
 #### Rust
 - [Aleo SDK](https://github.com/AleoHQ/aleo) - A Software Development Kit (SDK) for Zero-Knowledge Transactions.
