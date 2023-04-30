@@ -67,6 +67,7 @@ Things built with decentralized protocols and technologies.
 ### Libraries
 
 #### C/C++
+- [GNUnet](https://gnunet.org] - GNUnet is an alternative network stack for building secure, decentralized and privacy-preserving distributed applications.
 
 #### Rust
 - [Aleo SDK](https://github.com/AleoHQ/aleo) - A Software Development Kit (SDK) for Zero-Knowledge Transactions.
@@ -105,6 +106,7 @@ Things built with decentralized protocols and technologies.
 - [Hugin Messenger - Mobile](https://github.com/kryptokrona/hugin-mobile) - Private messaging application on Kryptokrona Blockchain for mobile.
 - [Mimir](https://github.com/Revertron/Mimir) - True P2P messenger on top of Yggdrasil Network.
 - [Berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network.
+- [GNUnet conversation](https://www.gnunet.org/en/applications.html) - GNUnet conversation is an application that provides secure voice communication in a fully decentralized way by employing GNUnet for routing and transport.
 
 ### Media
 
@@ -116,6 +118,7 @@ Things built with decentralized protocols and technologies.
 ### Microblogging and Social Network
 
 - [Lenster](https://github.com/lensterxyz/lenster) - Lenster is a decentralized and permissionless social media app built with Lens Protocol.
+- [secushare](https://secushare.org) - secushare employs GNUnet for end-to-end encryption and anonymizing mesh routing (because it has a more suitable architecture than Tor or I2P) and applies PSYC on top (because it performs better than XMPP, JSON or OStatus) to create a distributed social graph. Together, these technologies allow for distributed private social networking including more straightforward and secure e-mail, chat, exchange of content and a private web. It could even work out as a safer choice for the Internet of Things.
 
 ### Data Storage and Sharing
 
@@ -123,6 +126,7 @@ Things built with decentralized protocols and technologies.
 - [Syncthing](https://github.com/syncthing/syncthing) - Syncthing is a continuous file synchronization program. It synchronizes files between two or more computers.
 - [Kraken](https://github.com/uber/kraken) - Kraken is a P2P-powered Docker registry that focuses on scalability and availability.
 - [croc](https://github.com/schollz/croc) - croc is a tool that allows any two computers to simply and securely transfer files and folders.
+- [GNUnet](https://www.gnunet.org/en/use.html#filesharing) - GNUnet filesharing is an application that aims to provide censorship-resistant, anonymous filesharing. The publisher is empowered to make a gradual choice between performance and anonymity.
 
 ### Databases
 
@@ -143,6 +147,9 @@ Things built with decentralized protocols and technologies.
 - [Monero](https://github.com/monero-project) - A private, secure, untraceable, decentralised digital currency. 
 - [Kryptokrona](https://github.com/kryptokrona/kryptokrona) - A private, fast and secure cryptocurrency from the nordic region.
 - [Hydro](https://github.com/HydroBlockchain) - A web3, multi-chain decentralized ecosystem.
+
+### Payments
+[GNU Taler](https://taler.net/en) - GNU Taler is a new privacy-preserving electronic payment system. Payments are cryptographically secured and are confirmed within milliseconds with extremely low transaction costs.
 
 ### Other
 
@@ -175,6 +182,8 @@ Things built with decentralized protocols and technologies.
 ### Videos
 
 - [Peer-to-peer (P2P) Networks - Basic Algorithms](https://www.youtube.com/watch?v=kXyVqk3EbwE)
+- [GNUnet: A network protocol stack for building secure, distributed, and privacy-preserving applications](https://www.youtube.com/watch?v=qZYI-3Q1INI)
+- [You Broke The Internet? Let's Make A GNU One!](https://www.youtube.com/watch?v=2CdHfySAPas)
 
 ## Blogs
 
