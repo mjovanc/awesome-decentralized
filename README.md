@@ -55,7 +55,7 @@ A curated list of awesome projects, books, articles, tutorials, courses and othe
 ## Podcasts
 
 - [Monero Talk](https://www.monerotalk.live) - Monero Talk broadcasts weekly conversations with topical guests to understand what the Monero cryptocurrency is today and what it hopes to become.
-- [ETH Daily](https://podcasts.apple.com/se/podcast/eth-daily-crypto-news/id1502339625) - A daily crypto news podcast covering the latest in Ethereum. 
+- [ETH Daily](https://podcasts.apple.com/se/podcast/eth-daily-crypto-news/id1502339625) - A daily crypto news podcast covering the latest in Ethereum.
 
 ## Educational Projects
 
@@ -68,19 +68,24 @@ Things built with decentralized protocols and technologies.
 ### Libraries
 
 #### C/C++
+
 - [GNUnet](https://gnunet.org) - GNUnet is an alternative network stack for building secure, decentralized and privacy-preserving distributed applications.
 
 #### Rust
+
 - [Aleo SDK](https://github.com/AleoHQ/aleo) - A Software Development Kit (SDK) for Zero-Knowledge Transactions.
 - [Locutus](https://github.com/freenet/locutus) - Locutus is a software platform that makes it easy to create decentralized alternatives to today's centralized tech companies. These decentralized apps will be easy to use, scalable, and secured through cryptography.
 - [rust-libp2p](https://github.com/libp2p/rust-libp2p) - The Rust Implementation of the libp2p networking stack.
 
 #### JavaScript/TypeScript
+
 - [Holepunch](https://github.com/holepunchto) - Holepunch equips developers with a powerful suite of independent components to effortlessly construct peer-to-peer applications.
 - [js-libp2p](https://github.com/libp2p/js-libp2p) - The JavaScript Implementation of libp2p networking stack.
 - [PeerJS](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC.
+- [dApplingNetwork](https://dappling.network) - Decentralized web hosting platform for deploying Web3 frontends
 
 #### Java/Kotlin/Scala/Groovy
+
 - [Kryptokrona Kotlin SDK](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) - Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems.
 - [bitcoinj](https://github.com/bitcoinj/bitcoinj) - Java implementation of the Bitcoin protocol, which allows it to maintain a wallet and send/receive transactions without needing a local copy of Bitcoin Core.
 - [web3j](https://github.com/web3j/web3j) - Lightweight Java and Android library for integration with Ethereum clients.
@@ -145,11 +150,12 @@ Things built with decentralized protocols and technologies.
 
 ### Cryptocurrencies/Blockchains
 
-- [Monero](https://github.com/monero-project) - A private, secure, untraceable, decentralised digital currency. 
+- [Monero](https://github.com/monero-project) - A private, secure, untraceable, decentralised digital currency.
 - [Kryptokrona](https://github.com/kryptokrona/kryptokrona) - A private, fast and secure cryptocurrency from the nordic region.
 - [Hydro](https://github.com/HydroBlockchain) - A web3, multi-chain decentralized ecosystem.
 
 ### Payments
+
 - [GNU Taler](https://taler.net/en) - GNU Taler is a new privacy-preserving electronic payment system. Payments are cryptographically secured and are confirmed within milliseconds with extremely low transaction costs.
 
 ### Other
@@ -188,7 +194,7 @@ Things built with decentralized protocols and technologies.
 
 ## Blogs
 
-- [Jenkov](https://www.jenkov.com) - Blog regarding decentralized/distributed systems including P2P among other things. 
+- [Jenkov](https://www.jenkov.com) - Blog regarding decentralized/distributed systems including P2P among other things.
 - [P2P Foundation](https://blog.p2pfoundation.net) Non-profit organization and global network dedicated to advocacy and research of commons-oriented peer to peer (P2P) dynamics in society.
 
 ## Contributing
